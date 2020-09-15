@@ -1,0 +1,4 @@
+<src/*>: package(yojson)
+<src/*>: package(ppx_deriving.std)
+
+true: debug
